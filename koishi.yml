@@ -16,7 +16,5 @@ plugins:
     protocol: ws
     selfId: '123456789'
     endpoint: ws://127.0.0.1:6700
-  scene-training: {}
-  dialogue: {}
-  database-memory: {}
-  twdne: {}
+  ~abchbc: {}
+  ~:jy92vz: {}

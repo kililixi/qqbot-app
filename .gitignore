@@ -1,6 +1,7 @@
 lib
 dist
 accounts
+logs
 
 node_modules
 npm-debug.log
@@ -12,6 +13,7 @@ tsconfig.tsbuildinfo
 .DS_Store
 .idea
 .vscode
+.vite
 *.suo
 *.ntvs*
 *.njsproj
