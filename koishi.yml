@@ -1,6 +1,5 @@
 port: 5140
 maxPort: 5149
-
 plugins:
   group:basic:
     ~admin: {}
@@ -46,4 +45,8 @@ plugins:
   group:develop:
     $if: env.NODE_ENV === 'development'
     hmr:
-      root: '.'
+      root: .
+  ~messages:qqf6n2: {}
+  '@nonebot/weather-lite:jqpgz6': {}
+  nonebot:77iy2w: {}
+  60snews:xssaiz: {}
