@@ -299,25 +299,25 @@ var src_default = defineComponent({
 });
 
 // node_modules/schemastery-vue/src/index.ts
-import SchemaBase from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/base.vue";
-import SchemaPrimitive from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/primitive.vue";
-import Bitset from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/bitset.vue";
-import Group from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/group.vue";
-import Intersect from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/intersect.vue";
-import Object2 from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/object.vue";
-import Radio from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/radio.vue";
-import Table from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/table.vue";
-import Textarea from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/textarea.vue";
-import Tuple from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/tuple.vue";
-import Union from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/union.vue";
-import Schema from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/schema.vue";
+import SchemaBase from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/base.vue";
+import SchemaPrimitive from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/primitive.vue";
+import Bitset from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/bitset.vue";
+import Group from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/group.vue";
+import Intersect from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/intersect.vue";
+import Object2 from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/object.vue";
+import Radio from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/radio.vue";
+import Table from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/table.vue";
+import Textarea from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/textarea.vue";
+import Tuple from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/tuple.vue";
+import Union from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/extensions/union.vue";
+import Schema from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/schema.vue";
 
 // node_modules/schemastery-vue/src/icons/index.ts
-import IconClose from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/icons/close.vue";
-import IconEllipsis from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/icons/ellipsis.vue";
-import IconExternal from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/icons/external.vue";
-import IconEyeSlash from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/icons/eye-slash.vue";
-import IconEye from "H:/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/icons/eye.vue";
+import IconClose from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/icons/close.vue";
+import IconEllipsis from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/icons/ellipsis.vue";
+import IconExternal from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/icons/external.vue";
+import IconEyeSlash from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/icons/eye-slash.vue";
+import IconEye from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/schemastery-vue/src/icons/eye.vue";
 
 // node_modules/cosmokit/lib/index.mjs
 var __defProp2 = Object.defineProperty;
@@ -1276,20 +1276,20 @@ function form(app) {
 var src_default2 = form;
 
 // node_modules/@koishijs/components/client/index.ts
-import Computed from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/computed.vue";
-import Comment from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/k-comment.vue";
-import Filter from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/k-filter.vue";
-import Form from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/k-form.vue";
+import Computed from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/computed.vue";
+import Comment from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/k-comment.vue";
+import Filter from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/k-filter.vue";
+import Form from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/k-form.vue";
 
 // node_modules/@koishijs/components/client/virtual/index.ts
-import VirtualList from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/virtual/list.vue";
+import VirtualList from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/virtual/list.vue";
 function virtual_default(app) {
   app.component("virtual-list", VirtualList);
 }
 
 // node_modules/@koishijs/components/client/chat/index.ts
-import ChatInput from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/chat/input.vue";
-import MessageContent from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/chat/content.vue";
+import ChatInput from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/chat/input.vue";
+import MessageContent from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/components/client/chat/content.vue";
 
 // node_modules/@koishijs/components/client/index.ts
 src_default2.extensions.add({
@@ -1310,10 +1310,10 @@ function components(app) {
 var client_default = components;
 
 // node_modules/@koishijs/client/client/components/common/index.ts
-import Badge from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/common/k-badge.vue";
-import Button from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/common/k-button.vue";
-import Hint from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/common/k-hint.vue";
-import Tab from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/common/k-tab.vue";
+import Badge from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/common/k-badge.vue";
+import Button from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/common/k-button.vue";
+import Hint from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/common/k-hint.vue";
+import Tab from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/common/k-tab.vue";
 function common_default(app) {
   app.component("k-badge", Badge);
   app.component("k-button", Button);
@@ -1322,8 +1322,8 @@ function common_default(app) {
 }
 
 // node_modules/@koishijs/client/client/components/index.ts
-import Dynamic from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/dynamic.vue";
-import ChatImage from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/chat/image.vue";
+import Dynamic from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/dynamic.vue";
+import ChatImage from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/chat/image.vue";
 
 // node_modules/@koishijs/client/client/components/icons/index.ts
 var icons_exports = {};
@@ -1331,45 +1331,45 @@ __export(icons_exports, {
   install: () => install,
   register: () => register
 });
-import Default from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/default.vue";
-import Ellipsis from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/ellipsis.vue";
-import Home from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/home.vue";
-import Moon from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/moon.vue";
-import Settings from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/settings.vue";
-import Sun from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/sun.vue";
-import BoxOpen from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/box-open.vue";
-import CheckFull from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/check-full.vue";
-import ChevronDown from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/chevron-down.vue";
-import ChevronLeft from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/chevron-left.vue";
-import ChevronRight from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/chevron-right.vue";
-import ChevronUp from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/chevron-up.vue";
-import ClipboardList from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/clipboard-list.vue";
-import Delete from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/delete.vue";
-import Edit from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/edit.vue";
-import ExclamationFull from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/exclamation-full.vue";
-import Expand from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/expand.vue";
-import FileArchive from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/file-archive.vue";
-import Filter2 from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/filter.vue";
-import GitHub from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/github.vue";
-import GitLab from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/gitlab.vue";
-import InfoFull from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/info-full.vue";
-import Koishi from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/koishi.vue";
-import Link from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/link.vue";
-import PaperPlane from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/paper-plane.vue";
-import QuestionEmpty from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/question-empty.vue";
-import Redo from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/redo.vue";
-import Search from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/search.vue";
-import SearchMinus from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/search-minus.vue";
-import SearchPlus from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/search-plus.vue";
-import StarEmpty from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/star-empty.vue";
-import StarFull from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/star-full.vue";
-import Start from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/start.vue";
-import Tag from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/tag.vue";
-import TimesFull from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/times-full.vue";
-import Tools from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/tools.vue";
-import Undo from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/undo.vue";
-import User from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/user.vue";
-import "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/style.scss";
+import Default from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/default.vue";
+import Ellipsis from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/ellipsis.vue";
+import Home from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/home.vue";
+import Moon from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/moon.vue";
+import Settings from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/settings.vue";
+import Sun from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/activity/sun.vue";
+import BoxOpen from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/box-open.vue";
+import CheckFull from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/check-full.vue";
+import ChevronDown from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/chevron-down.vue";
+import ChevronLeft from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/chevron-left.vue";
+import ChevronRight from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/chevron-right.vue";
+import ChevronUp from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/chevron-up.vue";
+import ClipboardList from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/clipboard-list.vue";
+import Delete from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/delete.vue";
+import Edit from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/edit.vue";
+import ExclamationFull from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/exclamation-full.vue";
+import Expand from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/expand.vue";
+import FileArchive from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/file-archive.vue";
+import Filter2 from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/filter.vue";
+import GitHub from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/github.vue";
+import GitLab from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/gitlab.vue";
+import InfoFull from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/info-full.vue";
+import Koishi from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/koishi.vue";
+import Link from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/link.vue";
+import PaperPlane from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/paper-plane.vue";
+import QuestionEmpty from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/question-empty.vue";
+import Redo from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/redo.vue";
+import Search from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/search.vue";
+import SearchMinus from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/search-minus.vue";
+import SearchPlus from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/search-plus.vue";
+import StarEmpty from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/star-empty.vue";
+import StarFull from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/star-full.vue";
+import Start from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/start.vue";
+import Tag from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/tag.vue";
+import TimesFull from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/times-full.vue";
+import Tools from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/tools.vue";
+import Undo from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/undo.vue";
+import User from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/svg/user.vue";
+import "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/icons/style.scss";
 var registry = {};
 register("activity:default", Default);
 register("activity:ellipsis", Ellipsis);
@@ -1427,12 +1427,12 @@ function install(app) {
 }
 
 // node_modules/@koishijs/client/client/components/layout/index.ts
-import CardNumeric from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/card-numeric.vue";
-import Card from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/card.vue";
-import Content from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/content.vue";
-import Empty from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/empty.vue";
-import TabGroup from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/tab-group.vue";
-import TabItem from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/tab-item.vue";
+import CardNumeric from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/card-numeric.vue";
+import Card from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/card.vue";
+import Content from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/content.vue";
+import Empty from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/empty.vue";
+import TabGroup from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/tab-group.vue";
+import TabItem from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/layout/tab-item.vue";
 function layout_default(app) {
   app.component("k-numeric", CardNumeric);
   app.component("k-card", Card);
@@ -1496,7 +1496,7 @@ var slot_default = (app) => {
 };
 
 // node_modules/@koishijs/client/client/components/index.ts
-import "H:/CodeSpace/nodejs/qqbot-app/node_modules/element-plus/dist/index.css";
+import "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/element-plus/dist/index.css";
 var loading = ElLoading.service;
 var message = ElMessage;
 var messageBox = ElMessageBox;
@@ -1516,11 +1516,11 @@ function components_default(app) {
 }
 
 // node_modules/@koishijs/client/client/index.ts
-import Overlay from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/chat/overlay.vue";
+import Overlay from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/components/chat/overlay.vue";
 
 // node_modules/@koishijs/client/client/settings/index.ts
-import Settings2 from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/settings/index.vue";
-import Theme from "H:/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/settings/theme.vue";
+import Settings2 from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/settings/index.vue";
+import Theme from "/Users/startsi/Documents/CodeSpace/nodejs/qqbot-app/node_modules/@koishijs/client/client/settings/theme.vue";
 client_default.extensions.add({
   type: "string",
   role: "theme",

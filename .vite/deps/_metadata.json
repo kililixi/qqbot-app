@@ -1,59 +1,59 @@
 {
-  "hash": "ab906c8f",
-  "browserHash": "fe29291b",
+  "hash": "60b56fee",
+  "browserHash": "b67cc318",
   "optimized": {
     "vue": {
       "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "9c4bb711",
+      "fileHash": "458fb0f5",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../node_modules/vue-router/dist/vue-router.mjs",
       "file": "vue-router.js",
-      "fileHash": "f04ffb72",
+      "fileHash": "6f9c8778",
       "needsInterop": false
     },
     "element-plus": {
       "src": "../../node_modules/element-plus/es/index.mjs",
       "file": "element-plus.js",
-      "fileHash": "7996f371",
+      "fileHash": "5f394166",
       "needsInterop": false
     },
     "@vueuse/core": {
       "src": "../../node_modules/@vueuse/core/index.mjs",
       "file": "@vueuse_core.js",
-      "fileHash": "8fcd92ec",
+      "fileHash": "a87d3d97",
       "needsInterop": false
     },
     "@popperjs/core": {
       "src": "../../node_modules/@popperjs/core/dist/index.mjs",
       "file": "@popperjs_core.js",
-      "fileHash": "030faf42",
+      "fileHash": "6763f031",
       "needsInterop": false
     },
     "marked": {
       "src": "../../node_modules/marked/lib/marked.esm.js",
       "file": "marked.js",
-      "fileHash": "e18007d6",
+      "fileHash": "e63b9bbe",
       "needsInterop": false
     },
     "xss": {
       "src": "../../node_modules/xss/lib/index.js",
       "file": "xss.js",
-      "fileHash": "c6dac19e",
+      "fileHash": "69ac16d0",
       "needsInterop": true
     },
     "@koishijs/client": {
       "src": "../../node_modules/@koishijs/client/client/index.ts",
       "file": "@koishijs_client.js",
-      "fileHash": "4af8b82c",
+      "fileHash": "e1e9f34f",
       "needsInterop": false
     },
     "vue-i18n": {
       "src": "../../node_modules/vue-i18n/dist/vue-i18n.esm-bundler.js",
       "file": "vue-i18n.js",
-      "fileHash": "028310ea",
+      "fileHash": "1378f3f5",
       "needsInterop": false
     }
   },

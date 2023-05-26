@@ -47,6 +47,4 @@ plugins:
     hmr:
       root: .
   ~messages:qqf6n2: {}
-  '@nonebot/weather-lite:jqpgz6': {}
-  nonebot:77iy2w: {}
-  60snews:xssaiz: {}
+  weather:o7dz3m: {}
